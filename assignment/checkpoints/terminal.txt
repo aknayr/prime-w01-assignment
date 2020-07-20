@@ -10,7 +10,7 @@ cd
 
 # 3 - What is the command for going back a folder (to a parent directory)?
 
-cd -
+cd ..
 
 # 4 - What is a quick way to create a new folder?
 
@@ -20,13 +20,16 @@ touch or cat command
 If the folder is empty, the terminal window will not return anything. If there are files within the folder, ls will list out the files.
 
 # 6 - What is a quick way to create a new file?
+mkdir
 
-# 7 - Run 'git --version' in your terminal. What is the output? 2.20.1
+# 7 - Run 'git --version' in your terminal. What is the output?
+2.20.1
 
 # 8 - Why would you run the command 'git status'?
+To check on tracked and untracked files within the current folder.
 
-# 9 - What does the command 'git add .' do? stages new files and modifications.
+# 9 - What does the command 'git add .' do?
+stages new files and modifications.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-
 git push -u origin master
