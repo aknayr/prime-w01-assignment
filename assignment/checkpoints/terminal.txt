@@ -2,9 +2,15 @@
 
 # 1 - What is the command for listing the files in the current folder (directory)?
 
+ls
+
 # 2 - What is the command for changing directories?
 
+cd
+
 # 3 - What is the command for going back a folder (to a parent directory)?
+
+
 
 # 4 - What is a quick way to create a new folder?
 
