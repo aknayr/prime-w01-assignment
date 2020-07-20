@@ -1,19 +1,19 @@
 /* Give your page a fun background color */
 body{
-  background-color: lightblue;
+  background-color:  #c4abdb;
 }
 
 /* Make the header and footer a different color from the background */
 /* Align the h1 containing your name in the center of the header*/
 /* Align the h1 containing your name in the center of the header*/
 h1{
-  background-color: red;
+  background: linear-gradient(-90deg,#6f3022,#d6492b);
   text-align: center;
 }
 
 /* Make your p tag a different color and italic */
 footer{
-  background: linear-gradient(-90deg, #C96DC3, #0660A1);
+  background: linear-gradient(-90deg,  #d6492b,  #6f3022);
   position: fixed;
   left: 0;
   bottom: 0;
@@ -31,6 +31,10 @@ img{
   border-radius: 4px;
   padding: 5px;
   width: 150px;
+  Align: center;
 }
 
 /* Change the font-family of your list */
+ul{
+  font-family: cursive;
+}
