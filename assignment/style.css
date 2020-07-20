@@ -4,19 +4,33 @@ body{
 }
 
 /* Make the header and footer a different color from the background */
+/* Align the h1 containing your name in the center of the header*/
+/* Align the h1 containing your name in the center of the header*/
 h1{
   background-color: red;
+  text-align: center;
 }
 
+/* Make your p tag a different color and italic */
 footer{
-  background: linear-gradient(-90deg, #C96DC3, #0660A1)
-  position: absolute;
+  background: linear-gradient(-90deg, #C96DC3, #0660A1);
+  position: fixed;
+  left: 0;
   bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+  font-style: italic;
 }
-/* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
 
 /* Put a border around your image */
+img{
+  border: 1px solid #FFFF00;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
 
 /* Change the font-family of your list */
